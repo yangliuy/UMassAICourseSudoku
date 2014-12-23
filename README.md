@@ -1,9 +1,9 @@
-------------------------------------------------------
+
 /** Code for problem 2 of Homework Two in AI course
 * @author Liu Yang & Wei Hong
 * @mail lyang@cs.umass.edu & weihong@cs.umass.edu
 * */
-------------------------------------------------------
+
 
 The Eclipse project AISudokuSolver includes the implementation of plain back tracking, backtracking with the MRV heuristic, AC3 inference, Naked Pair inference, Shared Subgroup inference method and difficulty assessment.
 
