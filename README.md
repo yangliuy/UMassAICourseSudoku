@@ -7,6 +7,7 @@ Code for problem 2 of Homework Two in AI course
 
 
 
+
 The Eclipse project AISudokuSolver includes the implementation of plain back tracking, backtracking with the MRV heuristic, AC3 inference, Naked Pair inference, Shared Subgroup inference method and difficulty assessment.
 
   For plain back tracking, just run SudokuSolverPlainBackTracking.java.
