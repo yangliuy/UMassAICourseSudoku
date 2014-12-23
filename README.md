@@ -1,6 +1,8 @@
 
 Code for problem 2 of Homework Two in AI course
+
 @author Liu Yang & Wei Hong
+
 @mail lyang@cs.umass.edu & weihong@cs.umass.edu
 
 
