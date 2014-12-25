@@ -1,5 +1,5 @@
 
-A Sudoku Solver with multiple inference methods
+A Sudoku Solver with Multiple Inference Methods
 ==================================================
 
 @author Liu Yang & Wei Hong
