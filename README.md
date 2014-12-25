@@ -1,5 +1,5 @@
 
-Code for problem 2 of Homework Two in AI course
+A Sudoku Solver with multiple inference methods
 ==================================================
 
 @author Liu Yang & Wei Hong
